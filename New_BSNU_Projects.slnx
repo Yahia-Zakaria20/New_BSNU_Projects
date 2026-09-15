@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BSNU.BLL/BSNU.BLL.csproj" />
+  <Project Path="BSNU.DLL/BSNU.DLL.csproj" />
+  <Project Path="New_BSNU_Projects/New_BSNU_Projects.csproj" />
+  <Project Path="New_BSNU_Proj_MVC/New_BSNU_Proj_MVC.csproj" />
+</Solution>

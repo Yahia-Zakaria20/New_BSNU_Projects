@@ -1,0 +1,6 @@
+@New_BSNU_Projects_HostAddress = http://localhost:5194
+
+GET {{New_BSNU_Projects_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
